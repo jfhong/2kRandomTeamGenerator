@@ -7,8 +7,6 @@ IF YOU DON'T HAVE PYTON INSTALLED PLEASE FOLLOW STEPS 1 - 7.
 
 IF YOU DO HAVE PYTHON INSTALLED, SKIP TO STEP 8.
 
-
-
 All steps 1 - 7 does is install Homebrew to install Python3 on your unix machine.
 
 1. Open Terminal. If you don't know how to do this click 'cmd + spacebar', it should prompt you with a spotlight search. At this point type in 'Terminal'.
@@ -34,3 +32,5 @@ All steps 1 - 7 does is install Homebrew to install Python3 on your unix machine
 9. Once you've found the files on your computer, make sure you're in the folder and not the file itself. Copy and paste this into command line and hit 'Enter' and it should execute and give you the team you're playing with. Do this as many times as you so wish.
 
 	 python 2kRandomTeamGenerator.py
+
+Hope this helped. Enjoy :)
